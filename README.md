@@ -237,6 +237,4 @@ This curriculum is part of the **NAVTTC Hunarmand Pakistan Program** for educati
 ---
 
 ## ✨ Author / Maintainer
-
-**Safwan Ahmad**
-AI Engineer | ML Developer | Future FAANG Technologist 🚀
+- ✨ Maintainer : [Safwan Ahmad](https://www.linkedin.com/in/safwan-ahmad-saffi/) (AI|ML Developer) 
