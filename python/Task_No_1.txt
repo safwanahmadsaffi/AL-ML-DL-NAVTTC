@@ -1,0 +1,12 @@
+Tasks:
+1. Download and install Anaconda3
+2. Install PyTorch
+3. Install TensorFlow 2.0
+4. Install VSCode
+5. Install PyCharm
+
+- These were installed by using CMD Commands and Browser (Chrome).
+
+- Pytorch and Tensor Flow 2.0 was installed using CMD Commands.
+
+- Anaconda3, VSCode and PyCharm was installed using Browser (Chrome).

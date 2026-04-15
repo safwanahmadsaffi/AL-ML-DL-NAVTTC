@@ -1,4 +1,8 @@
-num1 = int(input("Enter the first number: "))
-num2 = int(input("Enter the second number: "))
-sum = int(num1) + int(num2)
-print("The sum of ", num1, "and ", num2, "is: ", sum)
+#Taking sum by user input
+
+num_1 = input("Enter the first number: ")
+num_2 = input("Enter the second number: ")
+
+sum = int(num_1) + int(num_2)
+
+print("The sum of", num_1, "and", num_2, "is", sum)
