@@ -148,7 +148,7 @@ AL-ML-DL-NAVTTC/
 
 ```bash
 # Run any Python task file
-python python/Task_No_3.py
+python python/Task_No_<task_number>.py
 ```
 
 ---
