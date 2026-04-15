@@ -132,6 +132,26 @@ By the end of this course, you will:
 - Deep Learning implementations
 - NLP pipelines
 
+### 📁 Repository Structure
+
+```text
+AL-ML-DL-NAVTTC/
+├── README.md
+└── python/
+    ├── Task_No_1.txt
+    ├── Task_No_3.py
+    ├── ...
+    └── Task_No_27.py
+```
+
+### ▶️ Running Practice Files
+
+```bash
+# Run any Python task file
+python python/Task_No_3.py
+# Replace 3 with your required task number (for example: 10, 22, 27)
+```
+
 ---
 
 ## 🚀 Final Project
@@ -152,7 +172,7 @@ After completion, you can work as:
 
 | Role | Description |
 |------|-------------|
-| ��‍💻 AI Associate Engineer | Build & deploy AI solutions |
+| 👨‍💻 AI Associate Engineer | Build & deploy AI solutions |
 | 📊 Machine Learning Analyst | Analyze data using ML models |
 | 📈 Assistant Data Analyst | Data analysis & visualization |
 | 🔬 Research Assistant | AI research & development |
