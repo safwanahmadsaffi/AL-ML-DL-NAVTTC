@@ -148,7 +148,8 @@ AL-ML-DL-NAVTTC/
 
 ```bash
 # Run any Python task file
-python python/Task_No_<task_number>.py
+python python/Task_No_3.py
+# Replace 3 with your required task number (for example: 10, 22, 27)
 ```
 
 ---
