@@ -125,12 +125,19 @@ By the end of this course, you will:
 
 ## 📂 Hands-on Tasks
 
-**60+ practical exercises** covering:
-- Python programming
-- NumPy & Pandas
-- Machine Learning models
-- Deep Learning implementations
-- NLP pipelines
+**25 task files** currently covering Python fundamentals, with more ML/DL/NLP tasks to be added as the course progresses:
+
+| Tasks | Topics |
+|-------|--------|
+| Task 1 | Environment setup (Anaconda, PyTorch, TensorFlow, VS Code, PyCharm) |
+| Tasks 3–10 | Basic Python: arithmetic, math operations, unit conversions |
+| Tasks 11–14 | Conditional statements (if, if-else, nested if, elif) |
+| Tasks 15–19 | Loops: `for`, `while`, `break`, `continue`, `enumerate` |
+| Task 20 | Functions: parameters, return values |
+| Tasks 21–25 | Data structures: List, Tuple, String, Set, Dictionary |
+| Tasks 26–27 | Exception handling and custom exceptions |
+
+> 📌 NumPy & Pandas, Machine Learning, Deep Learning, and NLP tasks will be added in subsequent weeks.
 
 ### 📁 Repository Structure
 
@@ -138,10 +145,32 @@ By the end of this course, you will:
 AL-ML-DL-NAVTTC/
 ├── README.md
 └── python/
-    ├── Task_No_1.txt
-    ├── Task_No_3.py
-    ├── ...
-    └── Task_No_27.py
+    ├── Task_No_1.txt          # Setup instructions
+    ├── Task_No_3.py           # Add two numbers
+    ├── Task_No_4.py           # User input sum
+    ├── Task_No_5.py           # Square root
+    ├── Task_No_6.py           # Complex square root
+    ├── Task_No_7.py           # Temperature converter
+    ├── Task_No_8.py           # Triangle area
+    ├── Task_No_9.py           # Quadratic equation
+    ├── Task_No_10.py          # Km to miles
+    ├── Task_No_11.py          # if statement
+    ├── Task_No_12.py          # if-else
+    ├── Task_No_13.py          # Nested if
+    ├── Task_No_14.py          # elif ladder
+    ├── Task_No_15.py          # for loop
+    ├── Task_No_16.py          # while loop
+    ├── Task_No_17.py          # break
+    ├── Task_No_18.py          # continue
+    ├── Task_No_19.py          # enumerate
+    ├── Task_No_20.py          # functions
+    ├── Task_No_21.py          # list
+    ├── Task_No_22.py          # tuple
+    ├── Task_No_23.py          # string
+    ├── Task_No_24.py          # set
+    ├── Task_No_25.py          # dictionary
+    ├── Task_No_26.py          # try-except
+    └── Task_No_27.py          # custom exceptions
 ```
 
 ### ▶️ Running Practice Files
@@ -149,7 +178,7 @@ AL-ML-DL-NAVTTC/
 ```bash
 # Run any Python task file
 python python/Task_No_3.py
-# Replace 3 with your required task number (for example: 10, 22, 27)
+# Replace 3 with your required task number (3 through 27, e.g. 10, 22, 27)
 ```
 
 ---
